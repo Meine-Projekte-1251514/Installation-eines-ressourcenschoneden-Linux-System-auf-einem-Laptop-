@@ -10,15 +10,14 @@ Unabhängigkeit von proprietärer Software.
 
 Praktische Erfahrung in der Installation und Konfiguration eines Linux-Systems.
 
-
-#Systemumgebung
+# Systemumgebung
 Hardware: 
 Laptop (älteres Modell)
 
 Betriebssystem:
 Ubuntu 
 
-#Installation & Konfiguration
+# Installation & Konfiguration
 Erstellung eines bootfähigen USB-Installationsmediums.
 
 Installation eines Ubuntu-Systems.
