@@ -1,31 +1,43 @@
 # Installation-eines-Linux-System-auf-einem-Laptop-
-Installation eines  Linux Laptop zur Unterhaltung während Montagewochen
+Installation eines  Linux Laptop zur Unterhaltung während Montagewochen.
 
 # Ziel & Motivation
-Reduzierung von Systemlast und unnötiger Hintergrunddienste
-Nutzung eines stabilen, wartungsarmen Betriebssystems
-Unabhängigkeit von proprietärer Software
-Praktische Erfahrung in der Installation und Konfiguration eines Linux-Systems
+Reduzierung von Systemlast und unnötiger Hintergrunddienste.
+
+Nutzung eines stabilen, wartungsarmen Betriebssystems.
+
+Unabhängigkeit von proprietärer Software.
+
+Praktische Erfahrung in der Installation und Konfiguration eines Linux-Systems.
+
 
 #Systemumgebung
-Hardware:
+Hardware: 
 Laptop (älteres Modell)
 
 Betriebssystem:
 Ubuntu 
 
 #Installation & Konfiguration
-Erstellung eines bootfähigen USB-Installationsmediums
-Installation eines Ubuntu-Systems
-Grundkonfiguration des Systems
-Installation ausschließlich notwendiger Pakete zur Medienwiedergabe
+Erstellung eines bootfähigen USB-Installationsmediums.
+
+Installation eines Ubuntu-Systems.
+
+Grundkonfiguration des Systems.
+
+Installation ausschließlich notwendiger Pakete zur Medienwiedergabe.
 
 # Ergebnis
-Stabil laufendes, schnelles System
-Deutlich geringere Ressourcennutzung im Vergleich zu vorherigem Betriebssystem
-Zuverlässige Nutzung für Medienkonsum unterwegs
+Stabil laufendes, schnelles System.
+
+Deutlich geringere Ressourcennutzung im Vergleich zu vorherigem Betriebssystem.
+
+Zuverlässige Nutzung für Medienkonsum unterwegs.
 
 # Erkenntnisse & Lernerfolge
-Linux-Installation auf Bestands-Hardware
-Auswahl geeigneter Distributionen für schwächere Systeme
-Bewertung von Betriebssystemen hinsichtlich Wartbarkeit und Performance
+Linux-Installation auf Bestands-Hardware.
+
+Auswahl geeigneter Distributionen für schwächere Systeme.
+
+Bewertung von Betriebssystemen hinsichtlich Wartbarkeit und Performance.
+
