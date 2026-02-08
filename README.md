@@ -1,5 +1,5 @@
-# Installation-eines-ressourcenschoneden-Linux-System-auf-einem-Laptop-
-Installation eines ressourcenschonenden Linux-Systems auf einem Laptop zur Unterhaltung und Privaten Nutzung während Hotelaufenthalten während Montagewochen
+# Installation-eines-Linux-System-auf-einem-Laptop-
+Installation eines  Linux Laptop zur Unterhaltung während Montagewochen
 
 # Ziel & Motivation
 Reduzierung von Systemlast und unnötiger Hintergrunddienste
@@ -12,7 +12,7 @@ Hardware:
 Laptop (älteres Modell)
 
 Betriebssystem:
-Ubuntu Light / Ubuntu Minimal
+Ubuntu 
 
 #Installation & Konfiguration
 Erstellung eines bootfähigen USB-Installationsmediums
